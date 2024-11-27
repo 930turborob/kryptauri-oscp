@@ -1,0 +1,46 @@
+/* add custom CSS here */
+
+.list-item {
+    padding: 0px 15px;
+    align-self: flex-start;
+  }
+  
+  .item-header-end {
+    min-height: 47px;
+    align-content: center;
+    display: flex;
+  }
+  
+  .novo-list-item {
+    padding: 0;
+  }
+  
+  /*app-info-chips {
+    display: none;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    visibility: hidden;
+  }*/
+  
+  @media only screen and (max-width: 768px) {
+    div.job-card .novo-list-item {
+      margin-bottom: 15px;
+      margin-left: 10px;
+    }
+    .list-item {
+      padding-bottom: 5px;
+    }
+    app-info-chips {
+      justify-content: flex-start;
+    }
+  }
+  
+  [data-automation-id="chip-undefined"] {
+      display: none;
+  }
+  
+  novo-list .job-card .description {
+      max-height: 10.6em !important;
+  }
+  
+  
