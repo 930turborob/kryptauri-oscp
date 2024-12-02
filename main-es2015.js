@@ -65495,7 +65495,7 @@
                     "icon",
                     "company",
                     "theme",
-                    "neutral",
+                    "dark",
                     "condensed",
                     "true",
                     3,
