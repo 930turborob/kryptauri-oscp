@@ -65531,7 +65531,7 @@
                   !ko.isServer &&
                   window.ga("send", {
                     hitType: "event",
-                    eventCategory: "Career Portal",
+                    eventCategory: "Kryptauri Career Portal",
                     eventAction: e,
                     eventLabel: e,
                   });
