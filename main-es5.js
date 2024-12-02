@@ -80957,7 +80957,7 @@
                 [1, "credits"],
                 [1, "powered-by"],
                 ["target", "_blank", "href", "http://www.bullhorn.com/"],
-                ["src", "assets/logo.svg", 1, "bullhorn"],
+                ["src", "assets/logo.svg", 1, "kryptauri"],
                 [1, "filters"],
                 [
                   "field",
@@ -81035,7 +81035,6 @@
                   c["\u0275\u0275template"](7, Sg, 3, 3, "a", 5),
                   c["\u0275\u0275elementStart"](8, "section", 6),
                   c["\u0275\u0275elementStart"](9, "span", 7),
-                  c["\u0275\u0275text"](10, "Powered By"),
                   c["\u0275\u0275elementEnd"](),
                   c["\u0275\u0275elementStart"](11, "a", 8),
                   c["\u0275\u0275element"](12, "img", 9),

@@ -66512,8 +66512,8 @@
                 ["class", "privacy-policy-link", 3, "click", 4, "ngIf"],
                 [1, "credits"],
                 [1, "powered-by"],
-                ["target", "_blank", "href", "http://www.bullhorn.com/"],
-                ["src", "assets/logo.svg", 1, "bullhorn"],
+                ["target", "_blank", "href", "http://www.kryptauri.com/"],
+                ["src", "assets/logo.svg", 1, "kryptauri"],
                 [1, "filters"],
                 [
                   "field",
@@ -66591,7 +66591,6 @@
                   r["\u0275\u0275template"](7, Jm, 3, 3, "a", 5),
                   r["\u0275\u0275elementStart"](8, "section", 6),
                   r["\u0275\u0275elementStart"](9, "span", 7),
-                  r["\u0275\u0275text"](10, "Powered By"),
                   r["\u0275\u0275elementEnd"](),
                   r["\u0275\u0275elementStart"](11, "a", 8),
                   r["\u0275\u0275element"](12, "img", 9),
@@ -66624,7 +66623,7 @@
               ],
               pipes: [wo],
               styles: [
-                "[_nghost-%COMP%]{background-color:#f4f4f4}[_nghost-%COMP%]::-webkit-scrollbar{background-color:#fff;height:4px;width:4px}[_nghost-%COMP%]::-webkit-scrollbar-track{background-color:#fff}[_nghost-%COMP%]::-webkit-scrollbar-thumb{background-color:#babac0;border-radius:4px}[_nghost-%COMP%]   novo-form[_ngcontent-%COMP%]{margin-top:30px;padding-right:20px}[_nghost-%COMP%] > section.credits[_ngcontent-%COMP%]{padding:27px 0 0 20px}[_nghost-%COMP%] > section.credits[_ngcontent-%COMP%]   span.powered-by[_ngcontent-%COMP%]{font-size:1em;font-weight:600;color:#202945}[_nghost-%COMP%] > section.credits[_ngcontent-%COMP%]   .bullhorn[_ngcontent-%COMP%]{display:block;position:relative;bottom:20px;margin:0}@media only screen and (max-width:768px){[_nghost-%COMP%]{position:absolute;left:-80%;transition:all .2s ease-in-out}.active[_nghost-%COMP%]{position:static;left:0}}@media only screen and (min-width:768px){[_nghost-%COMP%]   .header[_ngcontent-%COMP%]   .close-filter-container[_ngcontent-%COMP%]{display:none}[_nghost-%COMP%]   .header[_ngcontent-%COMP%] > header[_ngcontent-%COMP%]{color:#b56}[_nghost-%COMP%]   .header[_ngcontent-%COMP%] > header[_ngcontent-%COMP%]   h1[_ngcontent-%COMP%]{color:#d9dadc}}[_nghost-%COMP%]   .close-filter-container[_ngcontent-%COMP%]{flex-direction:row-reverse;display:flex}[_nghost-%COMP%]   a.privacy-policy-link[_ngcontent-%COMP%]{padding:0 20px}.preferredLanguageDropdown[_ngcontent-%COMP%]{margin:10px}",
+                "[_nghost-%COMP%]{background-color:#f4f4f4}[_nghost-%COMP%]::-webkit-scrollbar{background-color:#fff;height:4px;width:4px}[_nghost-%COMP%]::-webkit-scrollbar-track{background-color:#fff}[_nghost-%COMP%]::-webkit-scrollbar-thumb{background-color:#babac0;border-radius:4px}[_nghost-%COMP%]   novo-form[_ngcontent-%COMP%]{margin-top:30px;padding-right:20px}[_nghost-%COMP%] > section.credits[_ngcontent-%COMP%]{padding:27px 0 0 20px}[_nghost-%COMP%] > section.credits[_ngcontent-%COMP%]   span.powered-by[_ngcontent-%COMP%]{font-size:1em;font-weight:600;color:#202945}[_nghost-%COMP%] > section.credits[_ngcontent-%COMP%]   .kryptauri[_ngcontent-%COMP%]{display:block;position:relative;bottom:10px;margin-inline:5px 25px;}@media only screen and (max-width:768px){[_nghost-%COMP%]{position:absolute;left:-80%;transition:all .2s ease-in-out}.active[_nghost-%COMP%]{position:static;left:0}}@media only screen and (min-width:768px){[_nghost-%COMP%]   .header[_ngcontent-%COMP%]   .close-filter-container[_ngcontent-%COMP%]{display:none}[_nghost-%COMP%]   .header[_ngcontent-%COMP%] > header[_ngcontent-%COMP%]{color:#b56}[_nghost-%COMP%]   .header[_ngcontent-%COMP%] > header[_ngcontent-%COMP%]   h1[_ngcontent-%COMP%]{color:#d9dadc}}[_nghost-%COMP%]   .close-filter-container[_ngcontent-%COMP%]{flex-direction:row-reverse;display:flex}[_nghost-%COMP%]   a.privacy-policy-link[_ngcontent-%COMP%]{padding:0 20px}.preferredLanguageDropdown[_ngcontent-%COMP%]{margin:10px}",
               ],
             })),
             e
