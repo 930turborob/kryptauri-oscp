@@ -43,4 +43,8 @@
       max-height: 10.6em !important;
   }
   
-  
+  span[_ngcontent-serverapp-c104].type,
+  span[_ngContent-serverapp-c104].separator {
+    display: none;
+    visibility: hidden;
+  }
